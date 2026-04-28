@@ -1,3 +1,5 @@
 {
-  "outputDirectory": "dist"
+  "buildCommand": "cp -r dist/. public_output && echo done",
+  "outputDirectory": "public_output",
+  "installCommand": ""
 }
