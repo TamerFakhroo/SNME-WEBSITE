@@ -1,6 +1,4 @@
 {
-  "buildCommand": "echo build",
-  "outputDirectory": "public",
-  "installCommand": "",
-  "public": true
+  "cleanUrls": true,
+  "trailingSlash": false
 }

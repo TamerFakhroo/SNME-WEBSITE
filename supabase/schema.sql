@@ -1,2 +1,0 @@
--- rfq_submissions table is already created via Supabase MCP
--- Project: mfnynbgaqjwugtdloylk (snme-website, eu-central-1)
