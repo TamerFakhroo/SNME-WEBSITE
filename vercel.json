@@ -1,5 +1,6 @@
 {
   "buildCommand": "echo build",
   "outputDirectory": "public",
-  "installCommand": ""
+  "installCommand": "",
+  "public": true
 }
