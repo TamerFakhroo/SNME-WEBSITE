@@ -1,5 +1,4 @@
 {
-  "buildCommand": "cp -r dist/. public_output && echo done",
-  "outputDirectory": "public_output",
+  "buildCommand": "mkdir -p .vercel/output/static && cp -r dist/. .vercel/output/static/",
   "installCommand": ""
 }
